@@ -28,7 +28,11 @@ In your `application.js` you will need to add this line:
    
 And in your `application.scss` you will need to add this line:
 
-    @import ladda-themeless
+    @import "ladda";
+
+Or, if you want to use themed Ladda CSS:
+
+    @import "ladda-themed";
 
 ## Contributing
 
