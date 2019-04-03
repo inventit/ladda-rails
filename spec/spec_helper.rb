@@ -1,4 +1,5 @@
 require "bundler/setup"
+require "rails/engine"
 require "ladda/rails"
 
 RSpec.configure do |config|
